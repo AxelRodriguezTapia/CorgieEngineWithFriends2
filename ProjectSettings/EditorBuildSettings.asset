@@ -17,4 +17,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/LoadingScreen.unity
     guid: 888394d52616e5e42b3b54c3f2bbd3eb
+  - enabled: 1
+    path: Assets/CorgiEngine/Demos/HugoMingorance/Level 1.unity
+    guid: a68f0daaae34ed646b7cf209f1f5dd2b
+  - enabled: 1
+    path: Assets/CorgiEngine/Demos/HugoMingorance/Level 2.unity
+    guid: 82cff5b3d7c75574998b9f3cd99ab8a9
+  - enabled: 1
+    path: Assets/CorgiEngine/Demos/HugoMingorance/Level 3.unity
+    guid: 6268a5249e9c305458a783f85e389340
+  - enabled: 1
+    path: Assets/CorgiEngine/Demos/AlexVargas/Level2.unity
+    guid: 3d7e6ac34ee37ab468a1549947a79955
+  - enabled: 1
+    path: Assets/CorgiEngine/Demos/AlexVargas/FinalLevel.unity
+    guid: 39591b688a93f3e4993be521abca509b
+  - enabled: 1
+    path: Assets/CorgiEngine/Demos/AlexVargas/Tutorial.unity
+    guid: 58b5d9f2e4e0f0d4190653f84534c27b
   m_configObjects: {}
