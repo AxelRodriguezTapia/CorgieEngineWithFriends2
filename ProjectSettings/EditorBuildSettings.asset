@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/CorgiEngine/Demos/SelectionLevelFriends/LevelSelectionFriendsScene.unity
+    guid: cf9b9cddb0fb9394abf6f83e86e247a8
+  - enabled: 1
     path: Assets/CorgiEngine/Demos/AxelRodriguez/Tuto/TutoRetro.unity
     guid: 4a7399338687e234a88f681e972ee99c
   - enabled: 1
